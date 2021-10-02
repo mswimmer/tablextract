@@ -1,5 +1,7 @@
 # Tablextract
 
+Forked version by Morton
+
 This Python 3 library extracts the information represented in any HTML table. This project has been developed in the context of the paper `TOMATE: On extracting information from HTML tables`.
 
 Some of the main features of this library are:
